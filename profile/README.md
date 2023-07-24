@@ -27,9 +27,7 @@ me.say_hi()
 
 - Our website and blog: http://grapheen.net/
 
-## ![image](https://github.com/grapheen/.github/assets/111105899/36f8aad0-2c94-4feb-978c-e9acb4e635f5)
- Shop
-
+## Shop
 - Our website and shop: https://shop.grapheen.net/
 
 ## 🔧 Technologies & Tools
